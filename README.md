@@ -1,1 +1,1 @@
-# Titanic-Kaggle
+# Titanic project from Kaggle
